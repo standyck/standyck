@@ -1,4 +1,14 @@
-### Hi there 👋
+### Welcome to Stan's Github
+
+You won't see much here. That's because I have my own
+[playground](https://github.standyck.com) where I store my personal projects. I have found
+that I prefer having my own gitlab server because:
+
+1. I control everything
+2. I learn more about lots of different things (server administration/configuration,
+   docker, network administration, etc.)
+3. It supports a distributive model. Many services everywhere rather than one service in
+   one place.
 
 <!--
 **standyck/standyck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
