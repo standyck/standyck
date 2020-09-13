@@ -10,17 +10,20 @@ that I prefer having my own gitlab server because:
 3. It supports a distributive model. Many services everywhere rather than one service in
    one place.
 
-<!--
-**standyck/standyck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My favorite language is [clojure](https://clojure.org/). Here's a freebee for your next
+job interview.
 
-Here are some ideas to get you started:
+``` clojure
+(defn fizzbuzz
+  "Returns a lazy sequence of FizzBuzz values."
+  []
+  (let [fizz (cycle [nil nil "Fizz"])
+        buzz (cycle [nil nil nil nil "Buzz"])
+        nums (map inc (range))]
+    (map (fn [f b n] (if (or f b)
+                       (str f b)
+                       (str n)))
+         fizz buzz nums)))
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[I tried to make one without any conditionals but couldn't quite do it.]
