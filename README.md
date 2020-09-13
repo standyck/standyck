@@ -1,7 +1,7 @@
 ### Welcome to Stan's Github
 
 You won't see much here. That's because I have my own
-[playground](https://github.standyck.com) where I store my personal projects. I have found
+[playground](https://gitlab.standyck.com) where I store my personal projects. I have found
 that I prefer having my own gitlab server because:
 
 1. I control everything
