@@ -10,8 +10,8 @@ that I prefer having my own gitlab server because:
 3. It supports a distributive model. Many services everywhere rather than one service in
    one place.
 
-My favorite language is [clojure](https://clojure.org/). Here's a freebee for your next
-job interview.
+My favorite language is [clojure](https://clojure.org/). Here's a freebee for your [next
+job interview](https://wiki.c2.com/?FizzBuzzTest).
 
 ``` clojure
 (defn fizzbuzz
